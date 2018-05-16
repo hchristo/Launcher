@@ -1,0 +1,12 @@
+C:\Users\hchristo\source\repos\Launcher\Launcher\bin\Release\Launcher.exe
+C:\Users\hchristo\source\repos\Launcher\Launcher\bin\Release\Launcher.pdb
+C:\Users\hchristo\source\repos\Launcher\Launcher\bin\Release\Launcher.xml
+C:\Users\hchristo\source\repos\Launcher\Launcher\obj\Release\Launcher.vbprojResolveAssemblyReference.cache
+C:\Users\hchristo\source\repos\Launcher\Launcher\obj\Release\Launcher.Form1.resources
+C:\Users\hchristo\source\repos\Launcher\Launcher\obj\Release\Launcher.Resources.resources
+C:\Users\hchristo\source\repos\Launcher\Launcher\obj\Release\Launcher.vbproj.GenerateResource.cache
+C:\Users\hchristo\source\repos\Launcher\Launcher\obj\Release\Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\hchristo\source\repos\Launcher\Launcher\obj\Release\Launcher.exe
+C:\Users\hchristo\source\repos\Launcher\Launcher\obj\Release\Launcher.xml
+C:\Users\hchristo\source\repos\Launcher\Launcher\obj\Release\Launcher.pdb
+C:\Users\hchristo\source\repos\Launcher\Launcher\bin\Release\Launcher.exe.config
